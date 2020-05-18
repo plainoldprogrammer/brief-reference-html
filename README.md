@@ -1,2 +1,6 @@
-# brief-reference-html
-Brief reference of the HTML markup language.
+# Brief Reference HTML
+
+**Brief Reference HTML** is a concise reference of the HTML markup language.
+
+---
+
