@@ -4,3 +4,12 @@
 
 ---
 
+#### Basic page structure
+```
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+```
