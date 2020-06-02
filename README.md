@@ -4,6 +4,11 @@
 
 ---
 
+#### Basic Element Syntax
+```
+<element attribute1="value1" attribute2="value2"></element>
+```
+
 #### Basic page structure
 ```
 <html>
