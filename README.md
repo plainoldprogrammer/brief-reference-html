@@ -4,6 +4,11 @@
 
 ---
 
+#### Comment
+```
+<!-- This is a comment -->
+```
+
 #### Basic Element Syntax
 ```
 <element attribute1="value1" attribute2="value2"></element>
