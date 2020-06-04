@@ -9,7 +9,7 @@
 <!-- This is a comment -->
 ```
 
-#### Basic Element Syntax
+#### Basic element syntax
 ```
 <element attribute1="value1" attribute2="value2"></element>
 ```
@@ -20,6 +20,18 @@
     <head>
     </head>
     <body>
+    </body>
+</html>
+```
+
+#### Incude a JavaScript file
+```
+<html>
+    <head>
+    </head>
+    <body>
+        <script src="script.js">
+        </script>
     </body>
 </html>
 ```
