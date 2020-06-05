@@ -35,3 +35,14 @@
     </body>
 </html>
 ```
+
+### Link to a CSS StyleSheet file
+```
+<html>
+    <head>
+        <link href="css/style.css" type="text/css" rel="stylesheet" />
+    </head>
+    <body>
+    </body>
+</html>
+```
