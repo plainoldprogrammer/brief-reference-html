@@ -24,6 +24,11 @@
 </html>
 ```
 
+#### Tell to the browser that is a HTML5 file
+```
+<!DOCTYPE html>
+```
+
 #### Incude a JavaScript file
 ```
 <html>
