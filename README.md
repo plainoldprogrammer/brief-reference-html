@@ -41,7 +41,7 @@
 </html>
 ```
 
-### Link to a CSS StyleSheet file
+#### Link to a CSS StyleSheet file
 ```
 <html>
     <head>
@@ -50,4 +50,9 @@
     <body>
     </body>
 </html>
+```
+
+#### Display an image
+```
+<img src="images/happy.jpg"/>
 ```
