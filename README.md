@@ -52,6 +52,11 @@
 </html>
 ```
 
+#### Create a link
+```
+<a href='>images</a>
+```
+
 #### Display an image
 ```
 <img src="images/happy.jpg"/>
