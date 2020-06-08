@@ -66,9 +66,9 @@
 ```
 <p>Unorderer List</p>
 <ul>
-	<li>List item 1</li>
-	<li>List item 2</li>
-	<li>List item 3</li>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
 </ul>
 ```
 
@@ -76,8 +76,8 @@
 ```
 <p>Orderer List</p>
 <ol>
-	<li>List item 1</li>
-	<li>List item 2</li>
-	<li>List item 3</li>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
 </ol>
 ```
