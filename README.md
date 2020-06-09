@@ -81,3 +81,8 @@
     <li>List item 3</li>
 </ol>
 ```
+
+#### Create a hard line break
+```
+<br/>
+```
