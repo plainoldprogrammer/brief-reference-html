@@ -86,3 +86,8 @@
 ```
 <br/>
 ```
+
+#### Display Emphasized Text Inside a Paragraph
+```
+<p>This is the <em>emphasized</em> text</p>
+```
