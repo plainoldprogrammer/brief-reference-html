@@ -87,7 +87,12 @@
 <br/>
 ```
 
-#### Display Emphasized Text Inside a Paragraph
+#### Display emphasized Text Inside a Paragraph
 ```
 <p>This is the <em>emphasized</em> text</p>
+```
+
+#### Display bold elements
+```
+<p>This is a <strong>strong</strong>text<p>
 ```
