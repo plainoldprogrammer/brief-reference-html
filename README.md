@@ -96,3 +96,8 @@
 ```
 <p>This is a <strong>strong</strong>text<p>
 ```
+
+#### Hard break
+```
+<br/>
+```
