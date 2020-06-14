@@ -107,3 +107,10 @@
 ```
 <a href='>images</a>
 ```
+
+#### Open a link in a new tab
+```
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+	Mozilla Developer Network 
+</a>
+```
