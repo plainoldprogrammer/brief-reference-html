@@ -114,3 +114,8 @@
 	Mozilla Developer Network 
 </a>
 ```
+
+#### Specify the width of an image
+```
+<img src="images/mochi.png" width="75"/>
+```
