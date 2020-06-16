@@ -119,3 +119,8 @@
 ```
 <img src="images/mochi.png" width="75"/>
 ```
+
+#### Specify alternative text to an image
+```
+<img src="images/mochi.gif" width="75" alt="Dancing ball"/>
+```
