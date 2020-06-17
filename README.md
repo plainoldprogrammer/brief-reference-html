@@ -124,3 +124,10 @@
 ```
 <img src="images/mochi.gif" width="75" alt="Dancing ball"/>
 ```
+
+#### Specify the document language
+```
+<html lang="en">
+	...
+</html>
+```
