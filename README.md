@@ -111,7 +111,7 @@
 #### Open a link in a new tab
 ```
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-	Mozilla Developer Network 
+    Mozilla Developer Network 
 </a>
 ```
 
@@ -128,6 +128,13 @@
 #### Specify the document language
 ```
 <html lang="en">
-	...
+    ...
 </html>
+```
+
+#### Use the reserved characters
+```
+<p>
+    Three reserved characters in HTML: &lt; &gt; and &amp;.
+</p>
 ```
