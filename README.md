@@ -138,3 +138,10 @@
     Three reserved characters in HTML: &lt; &gt; and &amp;.
 </p>
 ```
+
+#### Specify the charset
+```
+<head>
+    <meta charset="UTF-8"/>
+</head>
+```
