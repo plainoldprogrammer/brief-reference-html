@@ -145,3 +145,8 @@
     <meta charset="UTF-8"/>
 </head>
 ```
+
+#### Strike delted text
+```
+<p>This is a <del>deleted</del> text.</p>
+```
