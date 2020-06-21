@@ -146,7 +146,12 @@
 </head>
 ```
 
-#### Strike delted text
+#### Strike deleted text
 ```
 <p>This is a <del>deleted</del> text.</p>
+```
+
+#### Underline text
+```
+<p>This is an <ins>underline</ins> text.</p>
 ```
