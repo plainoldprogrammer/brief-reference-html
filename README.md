@@ -155,3 +155,12 @@
 ```
 <p>This is an <ins>underline</ins> text.</p>
 ```
+
+#### Define specific styles
+```
+<style>
+    body {
+        color: #0000FF;
+    }
+</style>
+```
