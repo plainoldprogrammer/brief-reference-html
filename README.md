@@ -165,8 +165,12 @@
 </style>
 ```
 
-
 #### Define an inline style
 ```
 <a href="nowhere.html" style="color: #990000; text-decoration: line-through;">obsolete link</a>. This is your chance!
+```
+
+#### Preven margin collapse
+```
+<div style="margin-top: 1px"></div>
 ```
