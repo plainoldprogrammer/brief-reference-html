@@ -170,7 +170,17 @@
 <a href="nowhere.html" style="color: #990000; text-decoration: line-through;">obsolete link</a>. This is your chance!
 ```
 
-#### Preven margin collapse
+#### Prevent margin collapse
 ```
 <div style="margin-top: 1px"></div>
+```
+
+#### Point to specific part of a web page with url fragments from the same page
+```
+<a href="#button-2">Go to Button Two</a>
+```
+
+#### Point to specific part of a web page with url fragments from a different page
+```
+<a href="selectors.html#button-2">Go to Button Two</a>
 ```
