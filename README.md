@@ -184,3 +184,9 @@
 ```
 <a href="selectors.html#button-2">Go to Button Two</a>
 ```
+
+#### Disable the default zoom enabled on mobile devices
+```
+<meta name="viewport" content="width=device-width, initial-scale-1.0, maximum-scale=1.0">
+```
+
