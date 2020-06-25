@@ -190,3 +190,12 @@
 <meta name="viewport" content="width=device-width, initial-scale-1.0, maximum-scale=1.0">
 ```
 
+#### Basic form
+```
+<form action="" method="get" class="speaker-form">
+    <div class="form-row">
+        <label for="full-name">Name</label>
+        <input id="full-name" name="full-name" type="text"/>
+    </div>
+</form>
+```
