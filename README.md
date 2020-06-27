@@ -199,3 +199,9 @@
     </div>
 </form>
 ```
+
+#### Define a text area
+```
+<textarea>
+</textarea>
+```
