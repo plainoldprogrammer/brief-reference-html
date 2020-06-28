@@ -205,3 +205,10 @@
 <textarea>
 </textarea>
 ```
+
+#### Define a button
+```
+<button>
+    ok
+</button>
+```
